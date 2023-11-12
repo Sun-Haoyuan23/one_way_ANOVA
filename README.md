@@ -9,7 +9,7 @@ This file shows critical value F with its probability p, which is a reference in
 # My_report.pdf
 This file shows my results on these tasks.
 # code 
-Here are 13 .py files in this folder,which perfectly solved the problems in the task introduction.\
+Here are 13 .py files in this folder, which perfectly solved the problems in the task introduction.\
 1. The 'test_normality.py' solves the task 3(a).  \
 2. The 'test _five_components.py' solves the task 3(b).\
 3. The 'ANOVA.py' solves the task 3(c).\
@@ -20,4 +20,4 @@ Here are 13 .py files in this folder,which perfectly solved the problems in the 
 **Attention!**
 
 In the file 'ANOVA_invoking.py' ,I give a solution to the problem 3(b) by invoking the 'scipy.stats.f_oneway' package .\
-And in the file 'non_normal_ANOVA_invoking.py' ,I give a solution to the problem 5(b) by invoking the 'scipy.stats.f_oneway' package .
+And in the file 'non_normal_ANOVA_invoking.py', I give a solution to problem 5(b) by invoking the 'scipy.stats.f_oneway' package.
