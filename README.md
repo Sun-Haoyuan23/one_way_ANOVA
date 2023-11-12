@@ -14,7 +14,7 @@ Here are 13 .py files in this folder,which perfectly solved the problems in the 
 2. The 'test _five_components.py' solves the task 3(b).\
 3. The 'ANOVA.py' solves the task 3(c).\
 4. The 'test_another_three_columes.py' solves the task 4.\
-5. The 'non_norma_ANOVA_C3-C2.py'/'non_norma_ANOVA_C4-C2.py'/'non_norma_ANOVA_C8-C2.py'/'non_norma_ANOVA_C3-C4-C8.py'/'non_norma_ANOVA_C3-C4.py'/'non_norma_ANOVA_C3-C8.py'/'non_norma_ANOVA_C4-C8.py' solves the task 5.
+5. The following seven files : 'non_norma_ANOVA_C3-C2.py'/'non_norma_ANOVA_C4-C2.py'/'non_norma_ANOVA_C8-C2.py'/'non_norma_ANOVA_C3-C4-C8.py'/'non_norma_ANOVA_C3-C4.py'/'non_norma_ANOVA_C3-C8.py'/'non_norma_ANOVA_C4-C8.py' solve the task 5.
 
 
 **Attention!**
