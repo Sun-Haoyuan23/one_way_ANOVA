@@ -9,12 +9,13 @@ This file shows critical value F with its probability p, which is a reference in
 # My_report.pdf
 This file shows my results on these tasks.
 # code 
-Here are 13 .py files in this folder, which perfectly solved the problems in the task introduction.\
-1. The 'test_normality.py' solves the task 3(a).  \
-2. The 'test _five_components.py' solves the task 3(b).\
-3. The 'ANOVA.py' solves the task 3(c).\
-4. The 'test_another_three_columes.py' solves the task 4.\
-5. The following seven files : 'non_norma_ANOVA_C3-C2.py'/'non_norma_ANOVA_C4-C2.py'/'non_norma_ANOVA_C8-C2.py'/'non_norma_ANOVA_C3-C4-C8.py'/'non_norma_ANOVA_C3-C4.py'/'non_norma_ANOVA_C3-C8.py'/'non_norma_ANOVA_C4-C8.py' solve the task 5.
+Here are 13 .py files in this folder, which perfectly solved the problems in the task introduction.
+1. The 'test_normality.py' solves the task 3(a).  
+2. The 'test _five_components.py' solves the task 3(b).
+3. The 'ANOVA.py' solves the task 3(c).
+4. The 'test_another_three_columes.py' solves the task 4.
+5. The following seven files : 'non_norma_ANOVA_C3-C2.py'/'non_norma_ANOVA_C4-C2.py'/'non_norma_ANOVA_C8-C2.py'/\
+   'non_norma_ANOVA_C3-C4-C8.py'/'non_norma_ANOVA_C3-C4.py'/'non_norma_ANOVA_C3-C8.py'/'non_norma_ANOVA_C4-C8.py' solve the task 5.
 
 
 **Attention!**
