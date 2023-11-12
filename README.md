@@ -1,4 +1,4 @@
-# One_Way_ANOVA
+# one_way_ANOVA
 In the folder 'one_way_ANOVA', you can find four files and one folder. Here are their brief introductions.
 # task introduction.pdf
 In this file, it is shown that five tasks should be solved.
